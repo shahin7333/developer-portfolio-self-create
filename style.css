@@ -25,6 +25,7 @@ body{
 }
 .half{
     width: 50%;
+    
 }
 .h1{
     margin-top: 80px;
@@ -54,6 +55,7 @@ text-decoration: none;
 }
 .box-shadow{
 display: flex;
+margin-top: 15px;
 
 
 }
@@ -71,4 +73,45 @@ display: flex;
 .center{
     text-align: center;
     color: rgb(0, 140, 255);
+}
+.entertainment{
+    text-align: center;
+}
+    
+.center{
+    text-align: center;
+    margin-top:90px;
+}
+.smiley{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    background-image: url(img/circle.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size: 10%;
+
+}
+#id{
+    margin-top: 15px;
+}
+#safe{
+    width: 50%;
+}
+#reviews{
+    text-align: center;
+    padding-top: 100px;
+}
+.just{
+    text-align: justify;
+}
+footer p{
+    text-align: center;
+}
+.love-home{
+    background-image: url(img/circle-2.png);
+    background-repeat: no-repeat;
+    background-size: 5%;
+    background-position-y: bottom;
+  
 }
